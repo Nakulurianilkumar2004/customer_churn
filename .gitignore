@@ -1,11 +1,11 @@
 # -------------------
 # Python / FastAPI
 # -------------------
-backend/__pycache__/
-backend/*.pyc
-backend/*.pyo
-backend/*.pyd
-backend/.env
+fastapi/__pycache__/
+fastapi/*.pyc
+fastapi/*.pyo
+fastapi/*.pyd
+fastapi/.env
 
 # -------------------
 # Node / React / Vite
